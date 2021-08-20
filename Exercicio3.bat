@@ -1,3 +1,5 @@
 md "Todos os Paises"
 cd "Todos os Paises"
 md "Argentina" "Bolivia" "Brasil" "Chile" "Colombia" "Equador" "Guiana" "Guiana Francesa" "Paraguai" "Peru" "Suriname" "Uruguai" "Venezuela"
+cd "Brasil"
+md "Mato Grosso" "Goias" "Mato Grosso do Sul" "Distrito Federal" "Alagoas" "Bahia" "Ceara" "Maranhao" "Paraiba" "Pernanbuco" "Piaui" "Rio Grande do Norte" "Sergipe" "Roraima" "Amapa" "Para" "Tocantis" "Amazonas" "Acre" "Rondonia" "Minas Gerais" "Espirito Santo" "Rio de Janeiro" "Sao Paulo" "Parana" "Santa Carina" "Rio Grande do Sul" 
