@@ -9,3 +9,6 @@ md "Alagoas" "Bahia" "Ceara" "Maranhao" "Paraiba" "Pernanbuco" "Piaui" "Rio Gran
 cd ..
 cd "Norte"
 md "Roraima" "Amapa" "Para" "Tocantis" "Amazonas" "Acre" "Rondonia"
+cd ..
+cd "Sudeste"
+md "Minas Gerais" "Espirito Santo" "Rio de Janeiro" "Sao Paulo"
